@@ -4,5 +4,7 @@
 
 ## [project CV](https://nikitakochetkov.github.io/course-html-and-css/CV/index.html)
 
+ ## [project Social-Network] (https://nikitakochetkov.github.io/course-html-and-css/Social-Network/index.html) 
+
 
 
