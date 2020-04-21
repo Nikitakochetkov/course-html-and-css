@@ -9,3 +9,5 @@
 ## [project Social-Network-bootstrap](https://nikitakochetkov.github.io/course-html-and-css/Social-network-bootstrap/index.html)
 
 ## [first-milion-bootstrap](https://nikitakochetkov.github.io/course-html-and-css/first-million-bootstrap/index.html)
+
+## [first-million-pixel-perfect](https://nikitakochetkov.github.io/course-html-and-css/first-million-pixel-perfect/index.html)
